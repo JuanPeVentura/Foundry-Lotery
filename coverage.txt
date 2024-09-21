@@ -1,0 +1,14 @@
+Unable to resolve imports:
+      "../../src/Raffle.sol" in "/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/script/DeployRaffle.s.sol"
+      "../../script/HelperConfig.s.sol" in "/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/script/DeployRaffle.s.sol"
+with remappings:
+      @chainlink/contracts/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/chainlink-brownie-contracts/contracts/
+      @solmate/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/solmate/src/
+      chainlink-brownie-contracts/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/chainlink-brownie-contracts/contracts/src/v0.6/vendor/@arbitrum/nitro-contracts/src/
+      ds-test/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/solmate/lib/ds-test/src/
+      forge-std/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/forge-std/src/
+      foundry-devops/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/foundry-devops/
+      solmate/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/solmate/src/
+      weird-erc20/=/mnt/c/Users/gc/Desktop/Solidity maximalist/Foundry/basics/Foundry-smart-contract-lotery/lib/solmate/lib/weird-erc20/src/
+Compiling 48 files with Solc 0.8.19
+Solc 0.8.19 finished in 571.03ms
